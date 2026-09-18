@@ -12,7 +12,7 @@ Over the past 7+ years, I have contributed to fintech, healthcare, and digital c
 
 * Reliable and maintainable software
 * Quality engineering and test automation
-* DevOps and SRE
+* DevOps, Platform and SRE
 * AI-assisted engineering workflows
 
 [LinkedIn](https://www.linkedin.com/in/samska/) · [Samska Sandbox](https://github.com/Samska/samska-sandbox)
