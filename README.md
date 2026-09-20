@@ -8,14 +8,7 @@ My work spans software quality, test automation, APIs, web and mobile applicatio
 
 ### [Samska Sandbox](https://github.com/Samska/samska-sandbox)
 
-A public engineering laboratory where I design and evolve a fictional commerce and logistics platform while practicing the complete software lifecycle:
-
-- Product requirements and architecture
-- Java and Spring Boot backend development
-- React and TypeScript frontend development
-- Automated testing and CI/CD
-- Security, observability, DevOps, and SRE
-- AI-assisted development with human-owned decisions and validation
+Public engineering sandbox for practicing software architecture, quality, security, delivery, and operational engineering through a fictional commerce domain.
 
 ### [Version-controlled resume](https://github.com/Samska/resume)
 
