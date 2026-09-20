@@ -17,8 +17,6 @@ A public engineering laboratory where I design and evolve a fictional commerce a
 - Security, observability, DevOps, and SRE
 - AI-assisted development with human-owned decisions and validation
 
-The project currently includes a working Catalog vertical slice, structured CI reporting, architecture decisions, security controls, and engineering documentation.
-
 ### [Version-controlled resume](https://github.com/Samska/resume)
 
 ATS-friendly resumes maintained as Markdown and automatically generated as PDF through GitHub Actions, with validation for structure, content, reading order, and page count.
