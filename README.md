@@ -19,7 +19,7 @@ A public engineering laboratory where I design and evolve a fictional commerce a
 
 ### [Version-controlled resume](https://github.com/Samska/resume)
 
-Resumes are maintained as Markdown and generated as PDFs through GitHub Actions. For a selected vacancy, an LLM invoked through OpenRouter analyzes the posting and selects relevant evidence from the master resume. Deterministic repository code then renders and validates the tailored Markdown, PDF, and match report, so candidate claims are not invented or freely rewritten.
+ATS-friendly resumes in Markdown, automatically generated as PDF.
 
 ## Engineering focus
 
