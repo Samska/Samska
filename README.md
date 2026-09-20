@@ -19,7 +19,7 @@ A public engineering laboratory where I design and evolve a fictional commerce a
 
 ### [Version-controlled resume](https://github.com/Samska/resume)
 
-ATS-friendly resumes maintained as Markdown and automatically generated as PDF through GitHub Actions, with validation for structure, content, reading order, and page count.
+ATS-friendly resumes maintained in Markdown, automatically generated as PDFs with GitHub Actions, with optional vacancy tailoring based on exact source evidence.
 
 ## Engineering focus
 
