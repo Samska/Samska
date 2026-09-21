@@ -15,10 +15,18 @@ I work across the software development lifecycle with Java, Python, TypeScript, 
 - Continuous testing, CI/CD, observability, and incident investigation
 - AI-assisted engineering and repeatable test workflows
 
+## Selected impact
+
+- Built and maintained 20+ E2E scenarios covering sanity and regression flows for weekly releases.
+- Helped define Robot Framework architecture and integrate Applitools with Jenkins, enabling 100+ visual tests to run in parallel across three viewports.
+- Mentored junior and mid-level QAs, reviewed Robot Framework code, and received CI&T recognition for knowledge sharing and framework improvements.
+
 ## What I'm building
 
 ### [Samska Sandbox](https://github.com/Samska/samska-sandbox)
 
 Public engineering sandbox for practicing software architecture, quality, security, delivery, and operational engineering through a fictional commerce domain.
+
+I'm currently open to Senior QA Engineer and SDET opportunities focused on quality engineering, automation, and reliable software delivery.
 
 [LinkedIn](https://www.linkedin.com/in/samska/) · [Samska Sandbox](https://github.com/Samska/samska-sandbox) · [Resume](https://github.com/Samska/resume)
