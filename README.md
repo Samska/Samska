@@ -1,8 +1,8 @@
 # Hi, I'm Samuel Andrade
 
-Software engineer with 7+ years of experience building and validating reliable digital products across fintech, healthcare, and digital commerce.
+Software engineer with 7+ years of experience building and validating reliable digital products across fintech, healthcare, and digital ecommerce.
 
-My work spans software quality, test automation, APIs, web and mobile applications, accessibility, CI/CD, observability, and AI-assisted engineering. I focus on making quality part of the entire software lifecycle—not only the final testing stage.
+My work spans software quality, test automation, APIs, web and mobile applications, accessibility, CI/CD, observability, and AI-assisted engineering. I focus on making quality part of the entire software lifecycle.
 
 ## What I'm building
 
