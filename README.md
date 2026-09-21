@@ -1,8 +1,19 @@
-# Hi, I'm Samuel Andrade
+# Samuel Andrade
 
-Software engineer with 7+ years of experience building and validating reliable digital products across fintech, healthcare, and digital ecommerce.
+### Senior QA Engineer | Test Automation | Quality Engineering
 
-My work spans software quality, test automation, APIs, web and mobile applications, accessibility, CI/CD, observability, and AI-assisted engineering. I focus on making quality part of the entire software lifecycle.
+Senior QA Engineer with 7+ years of experience across software development and quality engineering, specializing in risk-based test strategy and automation for web, mobile, APIs, accessibility, visual regression, and distributed systems.
+
+I work across the software development lifecycle with Java, Python, TypeScript, CI/CD, observability, and AI-assisted engineering practices. I partner with product and engineering teams to identify risks early and improve delivery confidence.
+
+## Engineering focus
+
+- Risk-based quality engineering and test strategy
+- Test automation architecture across web, mobile, API, E2E, and integration layers
+- Manual, functional, regression, exploratory, accessibility, visual, performance, and UAT testing
+- API and distributed systems quality
+- Continuous testing, CI/CD, observability, and incident investigation
+- AI-assisted engineering and repeatable test workflows
 
 ## What I'm building
 
@@ -10,14 +21,6 @@ My work spans software quality, test automation, APIs, web and mobile applicatio
 
 Public engineering sandbox for practicing software architecture, quality, security, delivery, and operational engineering through a fictional commerce domain.
 
-## Engineering focus
-
-- Reliable and maintainable software
-- Quality engineering and test automation
-- Web, mobile, API, and accessibility testing
-- CI/CD, observability, DevOps, and SRE
-- AI-assisted engineering workflows
-
-I'm currently open to senior engineering opportunities involving quality, automation, reliable delivery, and modern software development.
+I'm currently open to Senior QA Engineer and SDET opportunities focused on quality engineering, automation, and reliable software delivery.
 
 [LinkedIn](https://www.linkedin.com/in/samska/) · [Samska Sandbox](https://github.com/Samska/samska-sandbox) · [Resume](https://github.com/Samska/resume)
