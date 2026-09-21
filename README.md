@@ -10,10 +10,6 @@ My work spans software quality, test automation, APIs, web and mobile applicatio
 
 Public engineering sandbox for practicing software architecture, quality, security, delivery, and operational engineering through a fictional commerce domain.
 
-### [Version-controlled resume](https://github.com/Samska/resume)
-
-ATS-friendly resumes in Markdown, automatically generated as PDF.
-
 ## Engineering focus
 
 - Reliable and maintainable software
