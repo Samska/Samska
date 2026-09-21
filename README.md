@@ -1,6 +1,6 @@
 # Samuel Andrade
 
-### Senior QA Engineer | Test Automation | Quality Engineering
+### Senior QA Engineer | QA Automation | Quality Engineering
 
 Senior QA Engineer with 7+ years of experience across software development and quality engineering, specializing in risk-based test strategy and automation for web, mobile, APIs, accessibility, visual regression, and distributed systems.
 
