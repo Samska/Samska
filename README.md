@@ -21,6 +21,4 @@ I work across the software development lifecycle with Java, Python, TypeScript, 
 
 Public engineering sandbox for practicing software architecture, quality, security, delivery, and operational engineering through a fictional commerce domain.
 
-I'm currently open to Senior QA Engineer and SDET opportunities focused on quality engineering, automation, and reliable software delivery.
-
 [LinkedIn](https://www.linkedin.com/in/samska/) · [Samska Sandbox](https://github.com/Samska/samska-sandbox) · [Resume](https://github.com/Samska/resume)
