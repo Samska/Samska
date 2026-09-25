@@ -8,7 +8,7 @@ I work across the software development lifecycle with Java, Python, TypeScript, 
 
 ## Engineering focus
 
-- Risk-based quality engineering and test strategy
+- Quality engineering and test strategy
 - Test automation architecture across web, mobile, API, E2E, and integration layers
 - Manual, functional, regression, exploratory, accessibility, visual, performance, and UAT testing
 - API and distributed systems quality
